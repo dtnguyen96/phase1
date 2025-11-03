@@ -88,11 +88,11 @@
     "behavior20": false
   },
   "sample5": {
-    "behavior01": true,
+    "behavior01": false,
     "behavior02": false,
     "behavior03": true,
     "behavior04": true,
-    "behavior05": false,
+    "behavior05": true,
     "behavior06": false,
     "behavior07": false,
     "behavior08": false,
