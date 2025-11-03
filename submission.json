@@ -9,7 +9,7 @@
     "behavior07": true,
     "behavior08": false,
     "behavior09": true,
-    "behavior10": true,
+    "behavior10": false,
     "behavior11": false,
     "behavior12": true,
     "behavior13": false,
@@ -19,7 +19,7 @@
     "behavior17": true,
     "behavior18": true,
     "behavior19": false,
-    "behavior20": true
+    "behavior20": false
   },
   "sample2": {
     "behavior01": false,
@@ -36,8 +36,8 @@
     "behavior12": true,
     "behavior13": false,
     "behavior14": false,
-    "behavior15": false,
-    "behavior16": true,
+    "behavior15": true,
+    "behavior16": false,
     "behavior17": false,
     "behavior18": true,
     "behavior19": false,
@@ -71,7 +71,7 @@
     "behavior03": false,
     "behavior04": true,
     "behavior05": false,
-    "behavior06": true,
+    "behavior06": false,
     "behavior07": true,
     "behavior08": false,
     "behavior09": true,
@@ -98,7 +98,7 @@
     "behavior08": false,
     "behavior09": true,
     "behavior10": true,
-    "behavior11": true,
+    "behavior11": false,
     "behavior12": true,
     "behavior13": false,
     "behavior14": false,
@@ -107,6 +107,6 @@
     "behavior17": false,
     "behavior18": true,
     "behavior19": true,
-    "behavior20": true
+    "behavior20": false
   }
 }
